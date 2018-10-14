@@ -1,0 +1,12 @@
+name: Whitelister
+main: me.noeffort.whitelister.Main
+version: 0.0.1
+
+description: Override whitelist plugin.
+author: NoEffort 
+
+commands:
+  whitelist:
+    aliases: wl
+    description: Whitelist command
+    usage: "Usage: /<command> <args>"
