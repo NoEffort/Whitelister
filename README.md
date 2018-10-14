@@ -1,2 +1,4 @@
 # Whitelister
-Advanced, customizable whitelist command for Vanilla Minecraft.
+
+Ready for release. Known bugs:    
+- [ ] Whitelist message resets on server restart / reload
